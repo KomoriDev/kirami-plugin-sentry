@@ -87,7 +87,7 @@ plugins = ["kiramit_plugin_sentry"]
 | 指令 | 权限 | 需要@ | 范围 | 说明 |
 |:-----:|:----:|:----:|:----:|:----:|
 | 追踪 | 主人 | 否 | 当前会话 | 回复报错消息 |
-| 追踪 | 主任 | 否 | 私聊/群聊 | 追踪 <msg_id> |
+| 追踪 | 主人 | 否 | 私聊/群聊 | 追踪 <msg_id> |
 
 > <msg_id> 代表这是一个**必填的参数**，即用 `<` 与 `>` 包裹的文本。
 
@@ -96,3 +96,16 @@ plugins = ["kiramit_plugin_sentry"]
 理论上，这里应该有几张效果图
 
 ~~如果你觉得这个插件很赞, 欢迎返图!~~
+
+## 📄 许可证
+本项目使用 [MIT](LICENSE) 许可证开源
+
+```txt
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
