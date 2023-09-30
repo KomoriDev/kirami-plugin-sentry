@@ -10,7 +10,7 @@ _✨在 Sentry.io 上进行 KiramiBot 服务日志查看、错误处理 ✨_
 
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/kirami-plugin-sentry.svg" alt="license">
+    <img src="https://img.shields.io/github/license/KomoriDev/kirami-plugin-sentry.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/kiramibot-plugin-sentry">
     <img src="https://img.shields.io/pypi/v/kirami-plugin-sentry.svg" alt="pypi">
